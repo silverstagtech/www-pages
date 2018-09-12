@@ -1,0 +1,31 @@
+baseurl = "http://www.silverstagtech.com"
+title = "Silver Stag Tech"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->IT Contracting services that you can be proud of<!--]-->'
+  copyright = "Silver Stag Tech"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin-square"
+  link = "https://linkedin.com/randycoburn"
+
+[[params.social]]
+  medium = "book"
+  icon = "book"
+  link = "https://blog.silverstagtech.com"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/morfien101"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
