@@ -6,7 +6,7 @@ draft: false
 ---
 Use the below contact form or one of the social links below to contact me.
 
-<form id="contactform" method="post" action="https://formspree.io/randy.coburn@silvertagtech.com">
+<form id="contactform" method="post" action="https://formspree.io/randy.coburn@silverstagtech.com">
 	<div class="field half first">
 		<input type="text" name="name" id="name" placeholder="Name"/>
 	</div>

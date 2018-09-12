@@ -13,12 +13,12 @@ disableKinds=["RSS"]
 [[params.social]]
   medium = "linkedin"
   icon = "linkedin-square"
-  link = "https://linkedin.com/randycoburn"
+  link = "https://www.linkedin.com/in/randycoburn/"
 
 [[params.social]]
   medium = "book"
   icon = "book"
-  link = "https://blog.silverstagtech.com"
+  link = "http://blog.silverstagtech.com"
 
 [[params.social]]
   medium = "github"
